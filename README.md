@@ -20,7 +20,7 @@
 - [Fehlerbehandlung](#-fehlerbehandlung)
 - [Build & Deployment](#-build--deployment)
 - [Entwicklung](#-entwicklung)
-- [Lizenz](#-lizenz)
+
 
 ---
 
@@ -62,13 +62,6 @@ Die Anwendung ermöglicht den Vergleich von **Selbsteinschätzung (SE)** und **F
 - 💾 **Offline-Cache** (AsyncStorage für Sessions)
 - 📱 **Responsive Design** für alle Bildschirmgrößen
 
----
-
-## 📱 Screenshots
-
-| Login | Profilliste | Profildetails | Statistik |
-|-------|-------------|---------------|-----------|
-| ![Login](https://via.placeholder.com/200x400/2196F3/white?text=Login) | ![Liste](https://via.placeholder.com/200x400/4CAF50/white?text=Profile) | ![Details](https://via.placeholder.com/200x400/FF9800/white?text=Details) | ![Statistik](https://via.placeholder.com/200x400/9C27B0/white?text=Statistik) |
 
 ---
 
